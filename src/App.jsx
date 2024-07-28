@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Login } from './components/Login/Login'
-import "./App.css"
+import "./App.scss"
 
 export function App() {
   
